@@ -25,9 +25,8 @@
 
 
 ## 🔔교재
+<p align="center"><img src="https://user-images.githubusercontent.com/76507990/155906079-e4da8433-3bbe-42c5-891a-506b3f502c02.png"></p>
 1. “XAI 설명 가능한 인공지능, 인공지능을 해부하다” CH 1 ~ 9 - 안재현 저
-
-![image](https://user-images.githubusercontent.com/76507990/155906079-e4da8433-3bbe-42c5-891a-506b3f502c02.png)
 
 
 해석가능한 인공지능의 개념 학습을 위한 교재
