@@ -29,14 +29,14 @@
 
 
 ## 🔔교재
-<p align="center"><img src="https://user-images.githubusercontent.com/76507990/155906079-e4da8433-3bbe-42c5-891a-506b3f502c02.png"></p>
 1. “XAI 설명 가능한 인공지능, 인공지능을 해부하다” CH 1 ~ 9 - 안재현 저
-
 - 해석가능한 인공지능의 개념 학습을 위한 교재
+<p align="center"><img src="https://user-images.githubusercontent.com/76507990/155906079-e4da8433-3bbe-42c5-891a-506b3f502c02.png"></p>
+
 
 2. “딥러닝 이용한 자연어 처리 입문” - 유원준, 안상준 저
-
 - 딥러닝과 인공지능의 기본개념에 대한 학습을 위한 부교재
+<p align="center"><img src="https://user-images.githubusercontent.com/76507990/156255956-01c83aaa-314c-4f16-b328-137386a00e20.png"></p>
 
 
 ## 🔔커리큘럼
