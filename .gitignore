@@ -1,3 +1,10 @@
+# model checkpoint
+
+# Data
+TASK 0/data
+TASK 0/data.zip
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
