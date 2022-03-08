@@ -4,6 +4,8 @@
 TASK 0/data
 TASK 0/data.zip
 TASK 0/models
+TASK 0/*.csv
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
