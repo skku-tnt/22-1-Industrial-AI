@@ -6,6 +6,17 @@ TASK 0/data.zip
 TASK 0/models
 TASK 0/*.csv
 
+# TASK 1
+TASK 1/data
+TASK 1/data.zip
+TASK 1/models
+TASK 1/pytorch-image-models
+
+# TASK 2
+TASK 2/Data
+TASK 2/LSWMD.pkl
+TASK 2/models
+TASK 2/logs
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -16,6 +27,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+.vscode
 .Python
 build/
 develop-eggs/
